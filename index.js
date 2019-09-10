@@ -6,3 +6,6 @@ bbb
 
 // remove a from line
 bbabb
+
+// change a to b inline
+bbbbabbbb
