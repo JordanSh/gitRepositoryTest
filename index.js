@@ -1,11 +1,11 @@
 // change a to b
-a
+console.log('a')
 
 // add a to the line
-bbb
+console.log('bbb')
 
 // remove a from line
-bbabb
+console.log('bbabb')
 
 // change a to b inline
-bbbbabbbb
+console.log('bbbaabbb')
