@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +12,13 @@
     "nodemon": "^1.19.2"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanSh/gitRepositoryTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JordanSh/gitRepositoryTest/issues"
+  },
+  "homepage": "https://github.com/JordanSh/gitRepositoryTest#readme",
   "description": ""
 }
